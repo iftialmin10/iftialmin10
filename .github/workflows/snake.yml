@@ -16,6 +16,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#00ffff"
+          color_dots: "#ff5f6d,#ffc371,#00f2fe,#4facfe,#43e97b"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
