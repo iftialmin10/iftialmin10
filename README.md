@@ -82,7 +82,7 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/iftialmin10/iftialmin10/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iftialmin10/iftialmin10/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 
