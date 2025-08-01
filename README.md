@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-<img src="https://iftialmin10.github.io/github-readme-streak-stats?user=iftialmin10&theme=tokyonight" alt="GitHub Streak Stats" />
+ <img src="https://raw.githubusercontent.com/iftialmin10/github-readme-streak-stats/main/streak.svg" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
