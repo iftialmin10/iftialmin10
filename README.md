@@ -85,7 +85,6 @@
   <img src="https://github.com/iftialmin10/iftialmin10/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-> 🔧 To enable the snake, follow this guide: [GitHub Snake Animation](https://github.com/Platane/snk)
 
 ---
 
