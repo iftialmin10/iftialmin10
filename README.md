@@ -37,7 +37,17 @@
 | 🍔 **Food Order Service** | Food delivery UI & backend logic. | [GitHub](https://github.com/iftialmin10/Food_Order_Service) |
 | 🎓 **Thesis Slide** | Smart bus system - final year thesis. | [Slides](https://docs.google.com/presentation/d/1kZwepyCKqMxp3SkzUZ_MVLKA30Nrrc7I) |
 
-📂 **Portfolio:** [Click here](https://sites.google.com/view/mdalaminifti)
+🚀 **Explore My Work**  
+✨ I build beautiful, fast, and functional web apps — see it live!
+
+<p align="center">
+  <a href="https://sites.google.com/view/mdalaminifti" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-Click Here-blueviolet?style=for-the-badge&logo=google-chrome" alt="Visit My Portfolio" />
+  </a>
+</p>
+
+🎯 [**Or click here directly**](https://sites.google.com/view/mdalaminifti)
+
 
 ---
 
@@ -48,7 +58,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=iftialmin10&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://iftialmin10.github.io/github-readme-streak-stats?user=iftialmin10&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -93,7 +103,9 @@
 ### 🔗 QR Code to Portfolio
 
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://sites.google.com/view/mdalaminifti" alt="QR Code to Portfolio">
+<a href="https://sites.google.com/view/mdalaminifti" target="_blank" rel="noopener noreferrer">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://sites.google.com/view/mdalaminifti" alt="QR Code to Portfolio" />
+</a>
 </p>
 
 ---
