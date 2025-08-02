@@ -1,9 +1,16 @@
+<!-- PROFILE HEADER -->
+
 <h1 align="center">Hi 👋, I'm MD. AL AMIN IFTI</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftialmin10&style=flat-square&color=blue" alt="Profile views" />
+</p>
 <h3 align="center">Full-Stack Software Engineer | React.js • Node.js • Next.js • TypeScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=1000&lines=Passionate+Full-Stack+Software+Engineer;Building+Modern+Web+%26+Desktop+Apps;Let's+Create+Something+Amazing+Together!🚀" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -53,21 +60,17 @@
 
 ### 📈 GitHub Stats & Metrics
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
   <img src="https://github-readme-stats.vercel.app/api?username=iftialmin10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/iftialmin10/github-readme-streak-stats/main/streak.svg" alt="GitHub Streak Stats" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=iftialmin10&theme=tokyonight" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftialmin10&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftialmin10&layout=compact&theme=tokyonight"  alt="Top Languages" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iftialmin10&style=flat-square&color=blue" alt="Profile views" />
-</p>
+</div>
+
+
 
 ---
 
