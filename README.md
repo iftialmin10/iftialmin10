@@ -1,11 +1,14 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Hi 👋, I'm MD. AL AMIN IFTI</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+MD.+AL+AMIN+IFTI;Full-Stack+Software+Engineer" alt="Typing Animation" /></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iftialmin10&style=flat-square&color=blue" alt="Profile views" />
 </p>
-<h3 align="center">Full-Stack Software Engineer | React.js • Node.js • Next.js • TypeScript</h3>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=React.js%20•%20Next.js%20•%20Node.js%20•%20TypeScript%20•%20TailwindCSS%20•%20MongoDB&width=900&height=60" alt="Tech Stack Glow" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=1000&lines=Passionate+Full-Stack+Software+Engineer;Building+Modern+Web+%26+Desktop+Apps;Let's+Create+Something+Amazing+Together!🚀" alt="Typing SVG" />
@@ -15,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-👋 Hi! I'm **MD. AL AMIN IFTI**, a passionate Full-Stack Software Engineer with **1.5 years** of experience in creating dynamic, scalable, and user-centric applications. I specialize in:
+👋 Hi! I'm **MD. AL AMIN IFTI**, a passionate Full-Stack Software Engineer with over **1.5 years** of experience in creating dynamic, scalable, and user-centric applications. I specialize in:
 
 - 🔥 **Frontend**: React.js, Next.js, TailwindCSS, TypeScript, ShadCN UI  
 - ⚙️ **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Mongoose  
@@ -31,6 +34,15 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,typescript,javascript,postgres,mongodb,prisma,electron,html,css" />
+</p>
+
+---
+
+### 📄 Resume
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fSK-i0jpdNaEB8veFsLgzKreiUDuBdRm/view" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---
