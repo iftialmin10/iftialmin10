@@ -78,7 +78,8 @@
 
   <img src="https://streak-stats.demolab.com?user=iftialmin10&theme=tokyonight" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftialmin10&layout=compact&theme=tokyonight"  alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftialmin10&layout=compact&theme=tokyonight&hide=HTML,SCSS,EJS,PHP&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top Languages" />
+
 
 </div>
 
