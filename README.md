@@ -60,12 +60,12 @@
 ✨ I build beautiful, fast, and functional web apps — see it live!
 
 <p align="center">
-  <a href="https://sites.google.com/view/mdalaminifti" target="_blank" rel="noopener noreferrer">
+  <a href="https://iftialamin10.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-Click Here-blueviolet?style=for-the-badge&logo=google-chrome" alt="Visit My Portfolio" />
   </a>
 </p>
 
-🎯 [**Or click here directly**](https://sites.google.com/view/mdalaminifti)
+🎯 [**Or click here directly**](https://iftialamin10.vercel.app)
 
 
 ---
