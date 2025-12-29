@@ -40,7 +40,7 @@
 
 ### 📄 Resume
 <p align="center">
-  <a href="https://drive.google.com/file/d/1fSK-i0jpdNaEB8veFsLgzKreiUDuBdRm/view" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1cgCLr22QA_3RbokC8p7yCKSMWtjQOdkY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
